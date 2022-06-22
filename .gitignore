@@ -1,9 +1,15 @@
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
 *.tar
 *.tar.*
 *.jar
 *.exe
 *.msi
-*.zip
 *.tgz
 *.log
 *.log.*
